@@ -1,7 +1,6 @@
 # Volební Scraper – Volby.cz
 
-Tento skript slouží ke **stažení a zpracování výsledků voleb** v jednotlivých obcích z webu [volby.cz](https://volby.cz/pls/ps2017nss/ps3?xjazyk=CZ)
-)) a k jejich exportu do CSV souboru.
+Tento skript slouží ke **stažení a zpracování výsledků voleb** v jednotlivých obcích z webu [volby.cz](https://volby.cz/pls/ps2017nss/ps3?xjazyk=CZ) a k jejich exportu do CSV souboru.
 
 ## Co skript dělá
 
