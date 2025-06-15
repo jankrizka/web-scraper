@@ -1,4 +1,4 @@
-# 📊 Volební Scraper – Volby.cz
+# Volební Scraper – Volby.cz
 
 Tento skript slouží ke **stažení a zpracování výsledků voleb** v jednotlivých obcích z webu [volby.cz](https://www.volby.cz/) a k jejich exportu do CSV souboru.
 
