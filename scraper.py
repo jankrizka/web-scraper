@@ -3,6 +3,12 @@ import re
 import csv
 import sys
 
+"""
+scraper.py: Volby-2017 scraper
+author: Jan Křižka
+email: JanKri610@seznam.cz discord: #jon.void
+"""
+
 # Definice regex vzorů pro extrakci dat z HTML
 HTML_PATTERNS = {
     "obec_nazev": r'<td class="overflow_name".*?>(.*?)</td>',
